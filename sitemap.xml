@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lvhaoran88.gitee.io/categories/</loc>
+    <loc>http://lvhaoran88.gitee.io/</loc>
+    <lastmod>2020-09-11T10:14:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lvhaoran88.gitee.io/</loc>
+    <loc>http://lvhaoran88.gitee.io/python/</loc>
+    <lastmod>2020-09-11T10:14:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lvhaoran88.gitee.io/python/sqlalchemy/</loc>
+    <lastmod>2020-09-11T10:14:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lvhaoran88.gitee.io/about/</loc>
+    <lastmod>2020-09-11T10:12:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lvhaoran88.gitee.io/categories/</loc>
   </url>
   
   <url>

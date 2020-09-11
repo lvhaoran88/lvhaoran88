@@ -4,7 +4,28 @@
     <link>http://lvhaoran88.gitee.io/</link>
     <language>en-us</language>
     <author>Alexander Ivanov</author>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+    <updated>2020-09-11 10:14:16 &#43;0800 CST</updated>
+    
+    <item>
+      <title>Pythons</title>
+      <link>http://lvhaoran88.gitee.io/python/</link>
+      <pubDate>Fri, 11 Sep 2020 10:14:16 CST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://lvhaoran88.gitee.io/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://lvhaoran88.gitee.io/about/</link>
+      <pubDate>Fri, 11 Sep 2020 10:12:18 CST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://lvhaoran88.gitee.io/about/</guid>
+      <description>&lt;h3 id=&#34;我是谁&#34;&gt;我是谁&lt;/h3&gt;
+&lt;h3 id=&#34;我的微信&#34;&gt;我的微信&lt;/h3&gt;
+&lt;h3 id=&#34;我可以有什么&#34;&gt;我可以有什么&lt;/h3&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
